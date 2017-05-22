@@ -1,0 +1,17 @@
+.fileInput{
+	display:none;
+}
+.previewBox{
+	margin:15px 0;
+}
+.previewBox img{
+	margin-right:10px;
+}
+.uploadBtn{
+	border:1px solid #eee;
+	background: #fff;
+	color:#666;
+	font-size: 16px;
+	line-height: 1.6;
+	padding:6px 15px;
+}
