@@ -1,5 +1,9 @@
 .fileInput{
-	display:none;
+	display: block;
+	height:1px;
+	overflow: hidden;
+	opacity: 0;
+	filter:alpha(opacity=0);
 }
 .previewBox{
 	margin:15px 0;
